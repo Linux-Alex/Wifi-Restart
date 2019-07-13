@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version = 1.0
+Type = Application
+Terminal = false
+Name = Wifi Restart
+Exec = /usr/bin/wifi-restart.sh
+Icon = /opt/wifi-restart/icon.png
+Categories = Application;
